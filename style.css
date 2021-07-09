@@ -1,0 +1,116 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
+    ma
+}
+
+.orange {
+    color: rgb(253, 0, 51);
+    font-size: 50px;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sectionclass {
+    display: flex
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 2%;
+
+}
+
+.half-width img {
+    width: 76%;
+    height: 085%;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 8px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.background {
+    background-image: url(IMAGE/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.background1 {
+    background-image: url(IMAGE/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 110px;
+}
+
+.half-width1 {
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 2%;
+    padding-right: 30px;
+
+
+}
+
+.half-width1 img {
+    width: 76%;
+    height: 085%;
+}
+
+.orange1 {
+    color: rgb(253, 0, 51);
+}
+
+.display3 {
+    display: flex;
+}
+
+.half-width3 {
+    width: 50%;
+    padding: 5px;
+    padding-top: 2%;
+    padding-right: 30px;
+    margin-right: 40px;
+    margin-left: 40px;
+    box-shadow: 15px 10px 29px rgba(2, 1, 0, 0.801);
+}
+
+#nice {
+
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(4, 199, 248), rgb(58, 48, 209));
+    border-image-slice: 1;
+
+
+}
+
+#nice1 {
+
+    border-left: 10px solid;
+    border-image: linear-gradient(red, orange);
+    border-image-slice: 1;
+
+}
+
+.last {
+    background-image: url(IMAGE/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+
+}
+
+footer {
+
+    margin-top: 10px;
+    padding top: 10px;
+    text-align: center;
+}
